@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">crastinationPro</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="event_priorities">
+        <item>"ASAP"</item>
+        <item>"secure deadline"</item>
+        <item>"no rush"</item>
+    </string-array>
+</resources>

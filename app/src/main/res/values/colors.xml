@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFAFA</color>
+    <color name="colorPrimaryDark">#D1CBC1</color>
+    <color name="colorAccent">#CDB5AB</color>
+    <color name="colorStringDark">#41553A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="Ivory">#FFFFF0</color>
+    <color name="Seashell">#FFF5EE</color>
+    <color name="Linen">#FAF0E6</color>
+    <color name="AntiqueWhite">#FAEBD7</color>
+    <color name="GhostWhite">#F8F8FF</color>
+    <color name="MintCream">#F5FFFA</color>
+    <color name="Beige">#F5F5DC</color>
+    <color name="Honeydew">#F0FFF0</color>
+    <color name="AgreeableGrey">#D1CBC1</color>
+    <color name="GliddenAntiqueBeige">#D1CBC1</color>
+    <color name="Rain">#ABBEBF</color>
+    <color name="DarkRain">#829EA0</color>
+    <color name="IvoryLace">#ECE5D8</color>
+    <color name="MindfulGray">#BCB8AE</color>
+    <color name="MindfulGray25lighter">#E5E3E0</color>
+    <color name="Opal">#A8C3BC</color>
+    <color name="VogueGreen">#41553A</color>
+    <color name="HalcyonGreen">#9BAAA2</color>
+    <color name="ShamrockGreen">#009e60</color>
+</resources>
